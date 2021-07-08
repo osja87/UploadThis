@@ -1,0 +1,7 @@
+This is a test 
+ä ö ü 
+\n
+
+<>||{
+
+Let's GO!
